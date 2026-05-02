@@ -1,0 +1,10 @@
+{
+    "name": "Prix Carburant Card",
+    "country": "FR",
+    "homeassistant": "2026.4.0",
+    "filename": "prix-carburant-card.js",
+    "domain": "prix_carburant_card",
+    "version": "1.0.0",
+    "render_readme": true,
+    "documentation": "https://github.com/guillian77/ha-prix-carburant-card"
+}
